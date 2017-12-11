@@ -34,8 +34,6 @@ module Validation
   end #alreadyExists() End
 
   def self.checkBalance(user,amount)
-    puts "User ",user
-    puts "Amount ",amount
 
     file = File.read('package.json')
     data_hash = JSON.parse(file)

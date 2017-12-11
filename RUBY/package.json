@@ -5,7 +5,7 @@
     "age": "22",
     "username": "apu",
     "password": "123",
-    "balance": 200
+    "balance": 80
   },
   {
     "acc_no": "12",
@@ -13,12 +13,12 @@
     "age": "22",
     "username": "anand",
     "password": "123",
-    "balance": 990
+    "balance": 1010
   },
   {
-    "acc_no": 123,
-    "name": "Anand",
-    "username": "sanand",
+    "acc_no": 222,
+    "name": "sneha",
+    "username": "sne",
     "password": "123",
     "balance": "0"
   }
